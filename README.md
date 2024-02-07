@@ -10,10 +10,10 @@ Dieses Tool ermöglicht die Verarbeitung von binären Suchbäumen, einschließli
 - **Baumstatistiken**: Berechnet und gibt minimale, maximale und durchschnittliche Schlüsselwerte aus.
 - **Suche**: Unterstützt einfache Suche nach einem Schlüsselwert und Subtree-Suche.
 
-## Installation
+## Voraussetzungen
 
-Das Tool erfordert Python 3. Stellen Sie sicher, dass Python korrekt auf Ihrem System installiert ist, um das Skript auszuführen.
-
+- Python 3.4 oder höher
+- Bibliothek: `sys`
 ## Verwendung
 
 AVL-Baum
