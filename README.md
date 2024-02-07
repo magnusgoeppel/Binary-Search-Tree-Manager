@@ -4,8 +4,6 @@ Dieses Tool ermöglicht die Verarbeitung von binären Suchbäumen, einschließli
 
 ## Features
 
-- **Einfügen von Knoten**: Fügt Knoten dynamisch in den Baum ein und erhält die AVL-Balance.
-- **Löschen von Knoten**: Entfernt spezifizierte Knoten und passt den Baum entsprechend an.
 - **AVL-Balance-Prüfung**: Überprüft, ob der Baum die AVL-Balance-Kriterien erfüllt.
 - **Baumstatistiken**: Berechnet und gibt minimale, maximale und durchschnittliche Schlüsselwerte aus.
 - **Suche**: Unterstützt einfache Suche nach einem Schlüsselwert und Subtree-Suche.
