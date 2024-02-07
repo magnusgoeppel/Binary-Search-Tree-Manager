@@ -16,6 +16,7 @@ Dieses Tool ermöglicht die Verarbeitung von binären Suchbäumen, einschließli
 - Bibliothek: `sys`
 ## Verwendung
 
+```bash
 AVL-Baum
 Gibt die Balance-Faktoren des Baums aus und überprüft, ob er ein AVL-Baum ist:
 python treecheck.py tree.txt 
