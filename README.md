@@ -16,15 +16,6 @@ Das Tool erfordert Python 3. Stellen Sie sicher, dass Python korrekt auf Ihrem S
 
 ## Verwendung
 
-Das Programm wird über die Kommandozeile mit verschiedenen Argumenten gesteuert, abhängig von der gewünschten Operation:
-
-### Baumverarbeitung
-
-Um die Balance-Faktoren eines Baums zu drucken und zu überprüfen, ob er ein AVL-Baum ist:
-
-```bash
-python treecheck.py baumdatei.txt
-
 AVL-Baum
 Gibt die Balance-Faktoren des Baums aus und überprüft, ob er ein AVL-Baum ist:
 python treecheck.py tree.txt 
