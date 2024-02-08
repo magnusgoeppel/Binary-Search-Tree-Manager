@@ -1,6 +1,6 @@
 # Binärer Suchbaum-Manager
 
-Dieses Tool ermöglicht die Verarbeitung von binären Suchbäumen, einschließlich der Einfügung und Löschung von Knoten, Überprüfung der AVL-Balance, Berechnung von Baumstatistiken und Durchführung von Suchoperationen. Es kann auch verwendet werden, um zu überprüfen, ob ein bestimmter Subbaum innerhalb eines größeren Baums existiert.
+Dieses Tool ermöglicht die Verarbeitung von binären Suchbäumen, einschließlich der Überprüfung der AVL-Balance, Berechnung von Baumstatistiken und Durchführung von Suchoperationen. Es kann auch verwendet werden, um zu überprüfen, ob ein bestimmter Subbaum innerhalb eines größeren Baums existiert.
 
 ## Features
 
